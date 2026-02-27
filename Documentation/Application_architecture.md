@@ -17,7 +17,7 @@ Here are the main components of the 2b1b application architecture:
 ## Sequence Diagram
 
 <div style="text-align: center;">
-  <img src="Diagrams/Sequence_diagram.png" alt="Centered image" style="display: block; margin: 0 auto;">
+  <img src="Diagrams/Sequence_Diagram.png" alt="Centered image" style="display: block; margin: 0 auto;">
 </div>
 
 ## Entity Relationship Diagram
