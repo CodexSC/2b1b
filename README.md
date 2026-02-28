@@ -349,7 +349,7 @@ Ce projet s'appuie sur les cadres normatifs et les initiatives suivantes, **sans
 |:---:|:---:|
 | **Mèlissa Sbibih** | **Carlos Silva** |
 | Holberton School Thonon-les-Bains | Holberton School Thonon-les-Bains |
-| [@Schpser](https://github.com/Schpser) | [@CodexSC](https://https://github.com/CodexSC) |
+| [@Schpser](https://github.com/Schpser) | [@CodexSC](https://github.com/CodexSC) |
 
 *Équipe 2b1b · Compétition depuis Thonon-les-Bains, France · Hackathon Rabhacks, Maroc*
 
