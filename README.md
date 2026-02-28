@@ -214,9 +214,8 @@ redis >= 7
 ### Installation
 
 ```bash
-git clone https://github.com/2b1b-team/yahduru.git
-cd yahduru
-
+git clone https://github.com/Schpser/2b1b.git
+cd 2b1b
 # Backend
 cd backend && npm install
 cp .env.example .env   # renseigner les variables
@@ -350,7 +349,7 @@ Ce projet s'appuie sur les cadres normatifs et les initiatives suivantes, **sans
 |:---:|:---:|
 | **Mèlissa Sbibih** | **Carlos Silva** |
 | Holberton School Thonon-les-Bains | Holberton School Thonon-les-Bains |
-| [@melissa-sbibih](https://github.com/melissa-sbibih) | [@carlos-silva](https://github.com/carlos-silva) |
+| [@Schpser](https://github.com/Schpser) | [@CodexSC](https://https://github.com/CodexSC) |
 
 *Équipe 2b1b · Compétition depuis Thonon-les-Bains, France · Hackathon Rabhacks, Maroc*
 
